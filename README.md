@@ -1,6 +1,6 @@
 # sqlmap
 
-Belirttiğiniz kaynağa göre, SQLmap için özel bir payload dosyası oluşturmak ve bu dosyayı kullanarak SQLmap'te kişiselleştirilmiş enjeksiyon testleri yapmak mümkündür. Verdiğiniz payloadları bu yönteme entegre edeceğiz.
+ SQLmap için özel bir payload dosyası oluşturmak ve bu dosyayı kullanarak SQLmap'te kişiselleştirilmiş enjeksiyon testleri yapmak mümkündür. Verdiğiniz payloadları bu yönteme entegre edeceğiz.
 
 ### Adım 1: Özel Payload Dosyası Oluşturma
 
